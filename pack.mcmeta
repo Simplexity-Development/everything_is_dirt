@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 10,
-    "description": "dirt"
+    "pack_format": 15,
+    "description": {"text": "Everything is dirt. And dirt is everything", "color": "yellow"}
   }
 }
